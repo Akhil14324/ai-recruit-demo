@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and caches
+*.log
+*.sqlite3
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.dll
+*.lib
+*.so
+*.pt
+*.h5

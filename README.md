@@ -114,20 +114,14 @@ Contributions are welcome!
 
 Fork the repo
 
-Create a new branch (feature-xyz)
+Create a new branch 
 
 Commit changes and open a PR
 
-📜 License
-
-This project is licensed under the MIT License.
 
 ✨ Author
 
 Akhil
-👨‍💻 Built with love, Python, FastAPI, and way too much coffee ☕
+👨‍💻 Built with love, Python, FastAPI.
 
 
----
-
-Do you also want me to **generate the `.env.example` file** (w

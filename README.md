@@ -29,7 +29,7 @@ ai-recruit-demo/
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the Repo
-```bash
+
 git clone https://github.com/Akhil14324/ai-recruit-demo.git
 cd ai-recruit-demo
 
